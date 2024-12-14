@@ -1,0 +1,6 @@
+Dependencies for Project 'Blinky', Target 'LPC2378 Flash': (DO NOT MODIFY !)
+F (.\LPC2300.s)(0x4A02A686)(--device DARMP --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "E:\KeilARM\ARM\INC\Philips" --list ".\Flash\LPC2300.lst" --xref -o ".\Flash\LPC2300.o")
+F (.\Blinky.c)(0x4A02A686)(-c --device DARMP -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I "E:\KeilARM\ARM\INC\Philips" -o ".\Flash\blinky.o" --depend ".\Flash\blinky.d")
+F (.\LCD_4bit.c)(0x4A02A686)(-c --device DARMP -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I "E:\KeilARM\ARM\INC\Philips" -o ".\Flash\lcd_4bit.o" --depend ".\Flash\lcd_4bit.d")
+F (.\IRQ.c)(0x4A02A686)(-c --device DARMP -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I "E:\KeilARM\ARM\INC\Philips" -o ".\Flash\irq.o" --depend ".\Flash\irq.d")
+F (.\Abstract.txt)(0x4A02A686)()

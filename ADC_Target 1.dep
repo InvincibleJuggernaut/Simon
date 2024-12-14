@@ -1,0 +1,10 @@
+Dependencies for Project 'ADC', Target 'Target 1': (DO NOT MODIFY !)
+F (.\ADC.c)(0x675B1739)(-c --cpu ARM7TDMI -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Universidad\Keil\ARM\RV31\INC -I C:\Universidad\Keil\ARM\CMSIS\Include -I C:\Universidad\Keil\ARM\Inc\Philips -o "adc.o" --omf_browse "adc.crf" --depend "adc.d")
+I (C:\Universidad\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x516EA50E)
+I (C:\Universidad\Keil\ARM\ARMCC\bin\..\include\stdlib.h)(0x516EA50E)
+I (C:\Universidad\Keil\ARM\Inc\Philips\LPC23xx.H)(0x5086BE16)
+I (LCD.h)(0x671F28E7)
+F (.\LCD_4bit.c)(0x6721DFDF)(-c --cpu ARM7TDMI -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Universidad\Keil\ARM\RV31\INC -I C:\Universidad\Keil\ARM\CMSIS\Include -I C:\Universidad\Keil\ARM\Inc\Philips -o "lcd_4bit.o" --omf_browse "lcd_4bit.crf" --depend "lcd_4bit.d")
+I (C:\Universidad\Keil\ARM\Inc\Philips\LPC23xx.H)(0x5086BE16)
+I (C:\Universidad\Keil\ARM\ARMCC\bin\..\include\stdlib.h)(0x516EA50E)
+F (.\LPC2300.s)(0x671F28E8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1" -I C:\Universidad\Keil\ARM\RV31\INC -I C:\Universidad\Keil\ARM\CMSIS\Include -I C:\Universidad\Keil\ARM\Inc\Philips --list "LPC2300.lst" --xref -o "LPC2300.o" --depend "LPC2300.d")
