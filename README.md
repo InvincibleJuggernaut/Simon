@@ -1,6 +1,6 @@
 
 <p>
-  <img src = "Assets/Banner_transparent.png">
+  <a href="https://www.textstudio.com/"><img src = "Assets/Banner_transparent.png"></a>
 </p>
   
 <p align = center>
@@ -14,3 +14,12 @@ Simon is a memory based game where user needs to remember the sequence of colour
 <p>
 Apparently, it used to be very popular during the 70s.
 </p>
+
+<h2>Components</h2>
+
+<ul>
+  <li>NXP's LPC2378</li>
+  <li>Breadboard</li>
+  <li>LEDs</li>
+  <li>Wires (duh!)</li>
+</ul> 
